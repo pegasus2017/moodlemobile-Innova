@@ -1,5 +1,5 @@
 {
-    "app_id": "com.moodle.moodlemobile",
+    "app_id": "com.innova.innovascmobile",
     "appname": "Innova Mobile",
     "desktopappname": "Innova Desktop",
     "versioncode": 3700,
@@ -68,7 +68,7 @@
             "password": "moodle"
         }
     },
-    "customurlscheme": "moodlemobile",
+    "customurlscheme": "innovamobile",
     "siteurl": "http://www.ueinnovaschool.edu.ec/av/2019",
     "sitename": "Innova School",
     "multisitesdisplay": "",
