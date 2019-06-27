@@ -6,14 +6,14 @@
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
-    <name>Moodle</name>
+    <name>Innova</name>
 
     <description>
-        Moodle official app
+        Innova official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://ueinnovaschool.edu.ec/" email="atencionalclienteinnovatc@gmail.com">
+        Innova Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
