@@ -1,7 +1,7 @@
 {
-    "app_id": "com.innova.innovascmobile",
-    "appname": "Innova Mobile",
-    "desktopappname": "Innova Desktop",
+    "app_id": "id.mayaclickec.mobile",
+    "appname": "MayaClick Mobile",
+    "desktopappname": "MayaClick Desktop",
     "versioncode": 3700,
     "versionname": "3.7.0",
     "cache_update_frequency_usually": 420000,
@@ -56,22 +56,10 @@
     },
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
-    "demo_sites": {
-        "student": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "student",
-            "password": "moodle"
-        },
-        "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
-            "username": "teacher",
-            "password": "moodle"
-        }
-    },
-    "customurlscheme": "innovamobile",
-    "siteurl": "http://www.ueinnovaschool.edu.ec/av/2019",
-    "sitename": "Innova School",
-    "multisitesdisplay": "",
+    "customurlscheme": "mayaclickmobile",
+    "siteurl": "http://165.227.186.24/mayaclick/",
+    "sitename": "MayaClick App",
+    "multisitesdisplay": "list",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "",
