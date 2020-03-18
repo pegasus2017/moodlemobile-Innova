@@ -2,15 +2,15 @@
   "project_info": {
     "project_number": "1084775324358",
     "firebase_url": "https://mayaclick-app-2020.firebaseio.com",
-    "project_id": "mayaclick-app-2020",
-    "storage_bucket": "mayaclick-app-2020.appspot.com"
+    "project_id": "id.kerygma.mobile",
+    "storage_bucket": "kerygma-app-2020.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:1084775324358:android:08ab42afe6d3e89a8095c7",
         "android_client_info": {
-          "package_name": "id.mayaclickec.mobile"
+          "package_name": "id.kerygma.mobile"
         }
       },
       "oauth_client": [
