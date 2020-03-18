@@ -57,7 +57,7 @@
     "wsservice": "moodle_mobile_app",
     "wsextservice": "local_mobile",
     "customurlscheme": "kerygma_mobile",
-    "siteurl": "http://165.227.186.24/kerygma",
+    "siteurl": "165.227.186.24/kerygma",
     "sitename": "Kerygma App",
     "multisitesdisplay": "list",
     "skipssoconfirmation": false,
