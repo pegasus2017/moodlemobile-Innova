@@ -6,10 +6,10 @@
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
-    <name>MayaClick App</name>
+    <name>Mobile App</name>
 
     <description>
-        MayaClick App
+        Mobile App
     </description>
 
     <author href="http://www.mayaclick.mayaeducacion.com/" email="soporte.estanteria@gmail.com">
