@@ -1,7 +1,7 @@
 {
     "app_id": "id.mayaclickec.mobile",
-    "appname": "MayaClick Mobile",
-    "desktopappname": "MayaClick Desktop",
+    "appname": "Kerygma Mobile",
+    "desktopappname": "App Desktop",
     "versioncode": 3700,
     "versionname": "3.7.0",
     "cache_update_frequency_usually": 420000,
@@ -58,7 +58,7 @@
     "wsextservice": "local_mobile",
     "customurlscheme": "mayaclickmobile",
     "siteurl": "http://165.227.186.24/mayaclick/",
-    "sitename": "MayaClick App",
+    "sitename": "Mobile App",
     "multisitesdisplay": "list",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
