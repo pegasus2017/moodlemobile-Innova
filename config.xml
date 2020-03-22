@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id="com.learnersplatform.mobile"
+        id="com.kerygma.mobile"
         versionCode = "38200"
         android-versionCode="38200"
         version   = "3.8.2">
-    <name>LPMobile</name>
+    <name>App Mobile</name>
 
     <description>
-        LearnersPlatform official app
+        App official
     </description>
 
-    <author href="https://learnersplatform.com" email="mobile@learnersplatform.com">
-        LearnersPlatform Mobile team
+    <author href="https://www.educaecuador.net" email="atencionalclientequasar@gmail.com">
+        Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
