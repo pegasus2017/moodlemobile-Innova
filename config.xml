@@ -6,10 +6,10 @@
         versionCode = "38200"
         android-versionCode="38200"
         version   = "3.8.2">
-    <name>App Mobile</name>
+    <name>Kerygma Mobile</name>
 
     <description>
-        App official
+        Kerygma official
     </description>
 
     <author href="https://www.educaecuador.net" email="atencionalclientequasar@gmail.com">
