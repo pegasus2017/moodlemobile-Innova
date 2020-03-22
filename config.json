@@ -59,7 +59,7 @@
     "customurlscheme": "mayaclickmobile",
     "siteurl": "http://165.227.186.24/mayaclick/",
     "sitename": "MayaClick App",
-    "multisitesdisplay": "list",
+    "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
     "privacypolicy": "",
