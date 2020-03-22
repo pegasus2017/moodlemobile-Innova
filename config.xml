@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "id.kerygma.mobile"
+        id        = "id.mayaclickec.mobile"
         versionCode = "37000"
         android-versionCode="37000"
         version   = "3.7.0">
-    <name>Kerygma App</name>
+    <name>MayaClick App</name>
 
     <description>
-        Kerygma App
+        MayaClick App
     </description>
 
-    <author href="http://www.kerygma.educaecuador.net/" email="soporte.estanteria@gmail.com">
+    <author href="http://www.mayaclick.mayaeducacion.com/" email="soporte.estanteria@gmail.com">
         Quasar
     </author>
 
